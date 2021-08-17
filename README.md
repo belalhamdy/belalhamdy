@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=belalhamdy&count_private=true&show_icons=true&theme=vue-dark" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalhamdytheme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalhamdy&theme=vue-dark" />
 </a>
 
 
