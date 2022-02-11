@@ -1,6 +1,11 @@
-  ![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=belalhamdy&show_icons=true&theme=default&count_private==true&include_all_commits=true)
 
 
+<a href="https://github.com/BelalHamdy?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=belalhamdy&show_icons=true&theme=default&count_private==true&include_all_commits=true" alt="BelalHamdy"></a>
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BelalHamdy?tab=repositories)
+
+<a href="https://github.com/BelalHamdy?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=BelalHamdy&column=8&margin-w=15&margin-h=15" alt="BelalHamdy"></a>
 <!--
 **belalhamdy/belalhamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
